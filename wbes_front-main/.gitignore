@@ -1,0 +1,4 @@
+node_modules
+.env\
+.log
+build\n/dist\n.DS_Store\n.idea/\n*.swp\n*.swo\n/coverage\n*.tmp\n*.temp
